@@ -1,11 +1,21 @@
 # Hosted Environments for Data Science
 A collection of hosted environments for Data Scientists/Engineers.
 
-- [Tensorflow](#tensorflow)
-- [Apache Spark](#apache-spark)
+- [Colab](#colab)
+- [Databricks community edition](#databricks-community-edition)
+- [Azure Notebooks](#azure-notebooks)
 
-## Tensorflow
-- [Colab](https://colab.research.google.com)
+## Colab
+- https://colab.research.google.com
+- Notebook based
 
-## Apache Spark
-- [Databricks community edition](https://community.cloud.databricks.com)
+## Databricks community edition
+- https://community.cloud.databricks.com
+
+## Azure Notebooks
+- https://notebooks.azure.com
+- Project Based
+- jupyter kernel lanugages:  
+  - Python (2.7/3.5/3.6)
+  - R
+  - F# 
