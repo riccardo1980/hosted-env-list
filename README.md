@@ -1,4 +1,4 @@
-# Hosted Environemnts for Data Science
+# Hosted Environments for Data Science
 A collection of hosted environments for Data Scientists/Engineers.
 
 - [Tensorflow](#tensorflow)
